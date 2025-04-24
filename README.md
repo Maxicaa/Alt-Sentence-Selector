@@ -2,7 +2,7 @@
 
 # 1. Installation
 
-The extension can be download and installed on the [Chrome Webstore](https://chromewebstore.google.com/detail/alt-sentence-selector/knnghjjfdabamneliapcjdllobjfghmd)
+The extension can be download and installed from the [Chrome Webstore](https://chromewebstore.google.com/detail/alt-sentence-selector/knnghjjfdabamneliapcjdllobjfghmd)
 
 To finish the installation, you may need to restart to browser to make it work.
 
@@ -12,7 +12,7 @@ Just maintain the ALT key when clicking on a sentence to select. Some texts are 
 
 For example, the text does not currently recognize on youtube the carriage return in the commentary making and will select the last sentence on the previous paragraph.
 
-# 3. Q&A
+# 3. Q & A
 
 ## 1) Does this extension collect any data on my utilization ?
 
