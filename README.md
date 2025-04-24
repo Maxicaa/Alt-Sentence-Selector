@@ -1,5 +1,6 @@
  Alt-Sentence-Selector is a chrome extension allows you to select a specific sentence in a text by clicking on it while holding down the ALT key.
 
+
 # 1. Installation
 
 The extension can be download and installed from the [Chrome Webstore](https://chromewebstore.google.com/detail/alt-sentence-selector/knnghjjfdabamneliapcjdllobjfghmd).
@@ -14,10 +15,10 @@ For example, the extension does not currently recognize a carriage return in a y
 
 # 3. Q & A
 
-## 1) Does this extension collect any data on my utilization ?
+## Does this extension collect any data on my utilization ?
 
 No, the extension read the page in the sole purpose to determine the beginning and the end of the sentence the user wish to select. No data is collected or communicated in any circumstances by the extension.
 
 
-# Overview
+# 4. Overview
 ![](https://lh3.googleusercontent.com/dkynLxHcFvoqM4OghArWcJcneAmGzpea8ZAdLZqvsReed1Q2MPNYpiibcIQoJVdIGURqEtw15T4iy9j3EY6IAUrp=s1280-w1280-h800)
