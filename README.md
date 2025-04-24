@@ -6,7 +6,7 @@
  
  Alt-Sentence-Selector is an extension for Chrome and Edge allowing you to select a specific sentence in a text by clicking on it while holding down the ALT key.
 
-This can be useful if you frequently copy texts from website in your mails or documents (e.g. quote from a text, extract of a section of a law, etc).
+This can be useful if you frequently copy texts from websites in your mails or documents (e.g. quote from a text, extract of a section of a law, etc).
 
 # 2. Installation
 
@@ -24,6 +24,6 @@ Some texts are not currently supported depending how the text is formatted. For 
 
 ## Does this extension collect any data on my utilization ?
 
-No, the extension read the page in the sole purpose to determine the beginning and the end of the sentence the user wish to select. No data is collected or communicated in any circumstances by the extension.
+No, the extension read the page in the sole purpose to determine the beginning and the end of the sentence the user wishes to select. No data is collected or communicated in any circumstances by the extension.
 
 
