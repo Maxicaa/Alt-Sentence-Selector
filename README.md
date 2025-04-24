@@ -11,7 +11,7 @@ To finish the installation, you may need to restart your browser to make it work
 
 Just maintain the ALT key when clicking on a sentence to select it. Some texts are not currently supported depending how the text is formatted.
 
-For example, the extension does not currently recognize in a youtube comment a carriage return and click on a first sentence of a paragraph will also select the last sentence on the previous paragraph.
+For example, as the extension does not yet recognize a carriage return in a youtube comment, clicking on a first sentence of a paragraph will also select the last sentence of the previous paragraph.
 
 # 3. Q & A
 
