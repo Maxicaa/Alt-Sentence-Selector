@@ -9,9 +9,9 @@ To finish the installation, you may need to restart your browser to make it work
 
 # 2. How to use it ?
 
-Just maintain the ALT key when clicking on a sentence to select it. Some texts are not currently supported depending how the text is formatted.
+Just maintain the ALT key when clicking on a sentence to select it. This can be useful if you frequently copy texts from website in your mails or documents (e.g. text quote, extract of a section of a law).
 
-For example, as the extension does not yet recognize a carriage return in a youtube comment, clicking on a first sentence of a paragraph will also select the last sentence of the previous paragraph.
+Some texts are not currently supported depending how the text is formatted. For example, as the extension does not yet recognize a carriage return in a youtube comment, clicking on a first sentence of a paragraph will also select the last sentence of the previous paragraph.
 
 # 3. Q & A
 
