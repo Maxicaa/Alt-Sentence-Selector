@@ -1,3 +1,6 @@
+![](https://lh3.googleusercontent.com/dkynLxHcFvoqM4OghArWcJcneAmGzpea8ZAdLZqvsReed1Q2MPNYpiibcIQoJVdIGURqEtw15T4iy9j3EY6IAUrp=s1280-w1280-h800)
+
+
 
  # 1. What does the extension do ?
  
@@ -24,5 +27,3 @@ Some texts are not currently supported depending how the text is formatted. For 
 No, the extension read the page in the sole purpose to determine the beginning and the end of the sentence the user wish to select. No data is collected or communicated in any circumstances by the extension.
 
 
-# 5. Overview
-![](https://lh3.googleusercontent.com/dkynLxHcFvoqM4OghArWcJcneAmGzpea8ZAdLZqvsReed1Q2MPNYpiibcIQoJVdIGURqEtw15T4iy9j3EY6IAUrp=s1280-w1280-h800)
